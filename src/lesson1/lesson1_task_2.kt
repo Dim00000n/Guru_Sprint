@@ -1,4 +1,4 @@
-
+package lesson1
 fun main(){
     val applePrice : Double = 6.0
     val applesAmount : Int = 5
